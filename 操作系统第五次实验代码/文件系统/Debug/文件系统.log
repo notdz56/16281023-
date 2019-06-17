@@ -1,0 +1,7 @@
+﻿  main.cpp
+d:\c++\文件系统\文件系统\main.cpp(611): warning C4101: “temp”: 未引用的局部变量
+d:\c++\文件系统\文件系统\main.cpp(734): warning C4101: “temp”: 未引用的局部变量
+d:\c++\文件系统\文件系统\main.cpp(802): warning C4101: “buffer_start”: 未引用的局部变量
+d:\c++\文件系统\文件系统\main.cpp(240): warning C4715: “write_buffer”: 不是所有的控件路径都返回值
+  文件系统.vcxproj -> D:\C++\文件系统\Debug\文件系统.exe
+  文件系统.vcxproj -> D:\C++\文件系统\Debug\文件系统.pdb (Partial PDB)
